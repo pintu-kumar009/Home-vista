@@ -70,7 +70,7 @@ const Footer = () => {
 
     
     </FooterContainer>
-    <Copyright><p> ©2023,Pintu kumar</p></Copyright>
+    <Copyright><p> ©2023, Pintu kumar</p></Copyright>
     </div>
   );
 };
